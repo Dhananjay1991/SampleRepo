@@ -5,9 +5,9 @@
 # print("Your Computer Name is:"+hostname)   
 # print("Your Computer IP Address is:"+IPAddr)  
 
-# import socket
-# import fcntl
-# import struct
+import socket
+import fcntl
+import struct
 
 # def get_ip_address(ifname):
     # s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
